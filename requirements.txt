@@ -1,0 +1,5 @@
+langchain-groq
+langchain
+langchain-community
+streamlit
+pypdf
